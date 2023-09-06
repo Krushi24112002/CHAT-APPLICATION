@@ -1,7 +1,7 @@
 <b>
 
 <h2>Introduction</h2>
-<p> The Chat App with React.js and Chat Engine is a modern and user-friendly web application that allows users to engage in real-time text-based conversations. It leverages the power of React.js for building a responsive and interactive user interface and utilizes the Chat Engine platform to enable seamless chat functionality.</p>
+<p> The Chat App with React.js and <a href="https://chatengine.io/"> Chat Engine </a> Chat Engine is a modern and user-friendly web application that allows users to engage in real-time text-based conversations. It leverages the power of React.js for building a responsive and interactive user interface and utilizes the Chat Engine platform to enable seamless chat functionality.</p>
 
 <h2> 🚀 Demo </h2>
 <a href="https://krushi24112002.github.io/CHAT-APPLICATION/"> Chat Application </a>
